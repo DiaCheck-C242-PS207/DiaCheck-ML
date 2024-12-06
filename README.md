@@ -12,7 +12,7 @@ The dataset used for training and testing the prediction model in DiaChek is sou
 Clone the repository by running the following command:
 
 ```shell
-git clone https://github.com/Superior231/diabetes-prediction.git
+git clone https://github.com/DiaCheck-C242-PS207/DiaCheck-ML.git
 ```
 
 Make sure you have created a Virtual Environment before. Run the following command to create a Virtual Environment:
