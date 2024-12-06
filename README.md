@@ -4,7 +4,7 @@ DiaChek is an application designed to predict the potential for early diabetes i
 
 ## About Dataset
 
-The dataset used for training and testing the prediction model in <b>DiaChek</b> is sourced from Kaggle, you can find the dataset [here](https://www.kaggle.com/datasets/717451f4573e9c3d8963e626808ade67a89fbd2ee660be008c1aba16b2a2345a). This dataset contains medical information about individuals and includes key features such as gender, age, hypertension, heart disease, BMI, glucose levels, and blood glucose level, which are used to predict the risk of diabetes.
+The dataset used for training and testing the prediction model in DiaChek is sourced from Kaggle, you can find the dataset [here](https://www.kaggle.com/datasets/717451f4573e9c3d8963e626808ade67a89fbd2ee660be008c1aba16b2a2345a). This dataset contains medical information about individuals and includes key features such as gender, age, hypertension, heart disease, BMI, glucose levels, and blood glucose level, which are used to predict the risk of diabetes.
 
 ## How to Use
 
