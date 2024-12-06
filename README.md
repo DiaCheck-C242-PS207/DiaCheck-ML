@@ -8,7 +8,7 @@ The dataset used for training and testing the prediction model in DiaChek is sou
 
 ## How to Use
 
-### A. Local
+### Local
 Clone the repository by running the following command:
 
 ```shell
@@ -28,7 +28,7 @@ After creating a Virtual Environment, you can install the required libraries by 
 pip install -r requirements.txt
 ```
 
-### B. Google Colab
+### Google Colab
 
 1. Open Google Colab. Go to [Google Colab](https://colab.research.google.com) and sign in with your Google account if necessary.
 2. Create a New Notebook. Click on "File" in the top-left corner of the Colab interface and select "New Notebook" to create a new notebook.
